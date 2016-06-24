@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"FriBranch的第一次修改");
+    NSLog(@"FriBranch的第二次修改");
 }
 
 - (void)didReceiveMemoryWarning {
