@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"FriBranch的第一次修改");
 }
 
 - (void)didReceiveMemoryWarning {
